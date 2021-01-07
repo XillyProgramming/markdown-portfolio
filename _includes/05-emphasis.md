@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have been working with **C#** to write a software for my Master's thesis in *Civil Engineering*; **Python** and **MatLab** for small problems *neural networks*, **RenPy** to develop visual novels and **Godot** for taking a peek into game development. Currently I put all of my efforts to learn more aboout C# in **Unity 3D**. 
