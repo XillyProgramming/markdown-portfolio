@@ -1,3 +1,4 @@
+**My hobbies:** 
 1. Playing story-driven computer games
 2. Creating things:
    1. Programming 
